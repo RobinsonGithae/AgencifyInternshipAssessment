@@ -44,4 +44,9 @@ In this task, the program prompts the user to specify the number of items to be 
 ### Implementation
 A scanner java class is used to enter numeric values. The values are captured inside a try and catch block whereby execution stops incase of bad input by the user. ArrayList is used to store the values and then the List is sorted using "Collection.sort". The index of the first and last value are used to calculate the difference between the smallest and Largest value of the sorted List.  
 
+## SQL TO QUERY EMPLOYEES
+This sql query retrieves employees of age above 30 and salaries above $50,000. 
+Solution
+The query uses a SELECT statement with a WHERE clause and AND operand.
+
 
