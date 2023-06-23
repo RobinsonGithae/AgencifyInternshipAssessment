@@ -39,12 +39,6 @@ public class Fibonacci {
 
    }
 
-
-// -1 to get last index and another -1 to get to one index lower just below the value of the value keyed in= which equals -2
-  //sublist method helps specify the range to print using an index
-
-     // System.out.println(fiboNumbersArraylist.subList(0,fiboNumbersArraylist.size()-1));
-
       System.out.println(fiboNumbersArraylist);
 
 
