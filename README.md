@@ -1,10 +1,9 @@
 # AgencifyInternshipAssessment
-Agencify Test Assessment
+Agencify Test Assessment.
 This is a software engineering assessment test in core Java.
 
 
 ## FIBONACCI PROBLEM
-
 ### Fibonacci
 The fibonacci solution adds the previous two numbers in an array to give a sequence e.g 0,1,1,2,3,5
 
@@ -31,7 +30,8 @@ An MVC architecture has been used to separate the various java classes in addtio
 This task calculates the average of number elements in an array. 
 
 ### Solution
-I identified the bug in this code to being the "Inaccuracy in division" which results to truncated results. Dividing the total as an Integer type reduces the accuracy of the result incase it yields decimal point results e.g 15.2345 is truncated to 15. I therefore corrected the code by casting the total value to double before performing the division operation is undertaken.  
+I identified the bug in this code to being the "Inaccuracy in division" which results to truncated results. Dividing the total as an Integer type reduces the accuracy of the result incase it yields decimal point results e.g 15.2345 is truncated to 15. I therefore corrected the code by casting the total value to double before performing the division operation is undertaken.  ![Screenshot (3011)](https://github.com/RobinsonGithae/AgencifyInternshipAssessment/assets/44303544/cbc0fc13-0053-422e-a398-83750af0ae8b)
+
 
 ### Implementation
 The java code uses a for loop to calculate the sum of the array elements. The double keyword is cast on the total to fix accuracy problem. The total is then divided by the number of items in the array to give an average.
