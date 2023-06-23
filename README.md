@@ -42,6 +42,9 @@ Finding the largest difference in a keyed in List of numbers e.g in [10,1,15] sh
 In this task, the program prompts the user to specify the number of items to be contained in a list of numbers. The user then keys in the numbers one after the other depending on number of items specified. The program then prints the list of numbers entrered, sorts the List and then finds the difference between the smallest and Largest element in the list.
 ![Screenshot (3006)](https://github.com/RobinsonGithae/AgencifyInternshipAssessment/assets/44303544/f5e84662-0f01-421b-a04b-676f779fb58c)
 Userinput validation
+![Screenshot (3007)](https://github.com/RobinsonGithae/AgencifyInternshipAssessment/assets/44303544/5449353c-61fe-4e60-bc28-13aa9c0c20c4)
+Trying entry of strings
+![Screenshot (3008)](https://github.com/RobinsonGithae/AgencifyInternshipAssessment/assets/44303544/05b8f433-99f2-4b32-9d75-93338b54b923)
 
 
 ### Implementation
