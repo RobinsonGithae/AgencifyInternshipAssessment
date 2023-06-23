@@ -36,7 +36,7 @@ The java code uses a for loop to calculate the sum of the array elements. The do
 
 
 ## LARGEST DIFFERENCE IN A LIST
-Finding the largest difference in a keyed in List of numbers.
+Finding the largest difference in a keyed in List of numbers e.g in [10,1,15] should return 14
 
 ### Solution
 In this task, the program prompts the user to specify the number of items to be contained in a list of numbers. The user then keys in the numbers one after the other depending on number of items specified. The program then prints the list of numbers entrered, sorts the List and then finds the difference between the smallest and Largest element in the list.
