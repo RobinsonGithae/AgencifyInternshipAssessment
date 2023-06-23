@@ -40,6 +40,9 @@ Finding the largest difference in a keyed in List of numbers e.g in [10,1,15] sh
 
 ### Solution
 In this task, the program prompts the user to specify the number of items to be contained in a list of numbers. The user then keys in the numbers one after the other depending on number of items specified. The program then prints the list of numbers entrered, sorts the List and then finds the difference between the smallest and Largest element in the list.
+![Screenshot (3006)](https://github.com/RobinsonGithae/AgencifyInternshipAssessment/assets/44303544/f5e84662-0f01-421b-a04b-676f779fb58c)
+Userinput validation
+
 
 ### Implementation
 A scanner java class is used to enter numeric values. The values are captured inside a try and catch block whereby execution stops incase of bad input by the user. ArrayList is used to store the values and then the List is sorted using "Collection.sort". The index of the first and last value are used to calculate the difference between the smallest and Largest value of the sorted List.  
