@@ -8,9 +8,12 @@ This is a software engineering assessment test in core Java.
 ### Fibonacci
 The fibonacci solution adds the previous two numbers in an array to give a sequence e.g 0,1,1,2,3,5
 
+
 ### Solution
 In this solution A user:
 Enters the value up to which the fibonacci sequence should reach. The java program then calculates the sequence and displaces the sequence as a list
+![Screenshot (3010)](https://github.com/RobinsonGithae/AgencifyInternshipAssessment/assets/44303544/f149e9e5-1327-4e69-8060-54a4e03c7a2e)
+
 
 ### Implementation
 This java code does not have a UI. The java code takes in the upper limit as input from the user using the Java Scanner class. The upper limit determines when the sequence should stop calculating.
